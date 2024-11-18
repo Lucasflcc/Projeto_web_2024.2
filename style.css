@@ -22,7 +22,7 @@ h3{
     width: auto;
     height: 500px;
     padding: 5px;
-    border: 5px #7f1d23;
+    border: 5px solid #7f1d23;
     margin: 8px;
     border-radius: 10px;
 }
