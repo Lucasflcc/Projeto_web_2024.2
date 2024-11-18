@@ -1,3 +1,21 @@
+# PROGRAMAÇÃO WEB E MOBILE
+
+## Alavancando Negócios Locais
+### Desenvolva uma solução web que auxilie uma pessoa, microempresa ou empresa local a  alavancar seu negócio, promovendo uma presença online mais profissional e acessível. O projeto  visa proporcionar uma experiência que atenda tanto aos requisitos básicos de funcionalidade quanto às necessidades específicas do cliente, contribuindo para a expansão de sua visibilidade e operações através da web.
+
+---
+
+# Projeto
+
+### Site - **Consulta de Restaurantes na Rua do Lazer**
+
+O site **Consulta de Restaurantes na Rua do Lazer** é uma plataforma interativa desenvolvida para facilitar a busca por opções gastronômicas na famosa Rua do Lazer. Ele oferece uma experiência simples e intuitiva, com informações detalhadas sobre os restaurantes, incluindo especialidades, cardápios, horários de funcionamento e localização no mapa.
+
+Com um design responsivo, o site é acessível garantindo uma navegação fluida e agradável. Além disso, as imagens ilustrativas e os links diretos para as páginas de cada restaurante proporcionam uma visão completa para ajudar os visitantes a escolherem o melhor lugar para suas refeições.
+
+Essa solução foi criada para destacar a diversidade e qualidade dos estabelecimentos locais, tornando-se um guia indispensável para quem deseja explorar a gastronomia da região.
+
+---
 ## Análise de Requisitos para o Site de Consulta de Restaurantes na Rua do Lazer
 
 
