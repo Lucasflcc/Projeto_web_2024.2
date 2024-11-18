@@ -55,28 +55,28 @@ h3{
 #box1{
     width: 430px;
     padding: 10px;
-    border: 5px solid darkblue;
+    border: 5px solid  #7f1d23;
     margin: 15px;
     border-radius: 15px;
-    background-color: white;
+    background-color:#d2a901;
 }
 
 #box2{
     width: 500px;
     padding: 5px;
-    border: 5px dotted darkblue;
+    border: 5px dotted  #7f1d23;
     margin: 15px;
     border-radius: 15px;
     text-align: left;
-    background-color: white;
+    background-color: #d2a901;
 }
 
 #box3{
     width: 200px;
     height: 100px;
     padding: 5px;
-    border: 5px solid darkblue;
+    border: 5px solid  #7f1d23;
     margin: 15px;
     border-radius: 15px;
-    background-color: white;
+    background-color:#d2a901;
 }
