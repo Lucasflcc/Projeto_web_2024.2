@@ -8,7 +8,10 @@
 # Projeto
 
 ### Site - **Consulta de Restaurantes na Rua do Lazer**
-![Logotipo_Rua_do_lazer](/workspaces/Projeto_web_2024.2/Logo_rua_do_lazer/Logotipo_Rua_do_lazer.png)
+![Logo_Rua_do_Lazer](https://github.com/user-attachments/assets/2de79011-b787-4115-ad7e-e2b595e005cf)
+
+
+
 
 
 
