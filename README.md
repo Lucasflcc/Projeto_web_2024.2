@@ -71,8 +71,16 @@ Essa solução foi criada para destacar a diversidade e qualidade dos estabeleci
 2. **Sistema de Avaliação**
    - Permitir que os usuários avaliem restaurantes com notas e comentários.
 
-## Link Vercel
-https://projeto-web-20242.vercel.app/?vercelToolbarCode=3FbLZF75VBfgUp8&classId=25bb3b42-ce93-41f1-9db8-7ae421637f6b&assignmentId=0eca69dc-687b-4700-a310-0c39987aca32&submissionId=af35e812-43c7-de7f-4cfa-45912ec1eaa8
+---
+   
+
+## **Link Canva-Protótipo**
+https://l1nk.dev/prototipo-rua-do-lazer
+
+## **Link Vercel**
+https://abrir.link/projeto-web-alavancando-negócios-locais
+
+
 
 
 
