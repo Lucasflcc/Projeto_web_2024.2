@@ -15,22 +15,8 @@ h3{
     text-align: center;
     font-size: 150%;
     border: 3px solid #7f1d23;
-    background-color:#f4d7d8;
+    background-color:darkgrey;
 }
-#logo{
-
-    width: 100%; /* A largura será sempre 100% da tela */
-    height: auto; /* Altura proporcional à largura */
-    padding: 5px; /* Espaçamento interno ao redor do banner */
-    max-width: 1500px; /* Limite máximo de largura */
-    border-radius: 10px; /* Aplica arredondamento uniforme em todos os cantos */
-    border: 3px solid #f7d23e;
-
-
-
-}
-
-
 
 #mapa{
     width: auto;
@@ -39,7 +25,7 @@ h3{
     border: 5px solid #7f1d23;
     margin: 8px;
     border-radius: 10px;
-    background-color:#f4d7d8;
+    background-color:darkgrey;
 }
 
 .opcoes{
