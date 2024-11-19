@@ -28,6 +28,24 @@ h3{
     background-color:#f5d5da;
 }
 
+.banner-container {
+    justify-content: center;  /*Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    background-color: #fef5f5; /* Cor de fundo do banner */
+}
+
+
+#logo {
+    width: auto; /* A largura será sempre 100% da tela */
+    height: 500px; /* Altura proporcional à largura */
+    padding: 5px; /* Espaçamento interno */
+    max-width: 1500px; /* Limite máximo de largura */
+    margin: 0 130px;
+    border: 5px solid #7f1d23; /* Borda azul sólida */
+    border-radius: 10px; /* Bordas arredondadas */
+}
+
+
 .opcoes{
     margin: 5px;
     text-align: left;
