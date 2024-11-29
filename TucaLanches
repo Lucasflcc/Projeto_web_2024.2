@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+</html>
+    <head>
+        <title>Tuca Lanches</title>
+        <link rel="stylesheet" href="style.css">
+        <meta charset="utf-8" />
+        <meta name="keywords" content="HTML, CSS, JavaScript" />
+        <meta name="description" content="Projeto da disciplina PWM 2024.2" />
+    </head>
+    <body>
+        <h2><img src="Logo_restaurante/1.png"" alt="Tuca Lanches" style="width:320px;height:240px;"></h2>
+        <h3>Tuca Lanches</h3>
+
+        <div class="container">
+
+            <div id="box1">
+                Especializações:<br>
+                XXXX<br>
+                YYYYY<br>
+                <img src="Logo_restaurante/1.png" style="width:200px;height:150px;">
+                <img src="Logo_restaurante/1.png" style="width:200px;height:150px;">
+                <img src="Logo_restaurante/1.png" style="width:200px;height:150px;">
+                <img src="Logo_restaurante/1.png" style="width:200px;height:150px;">
+            </div>
+    
+            <div id="box2">
+                <table style="width:100%">
+                    <tr>
+                      <th>Nome do Produto:</th>
+                      <th>Preço:</th>
+                    </tr>
+                    <tr>
+                      <td>coxinha</td>
+                      <td>R$5,00</td>
+                    </tr>
+                    <tr>
+                      <td>Pastel</td>
+                      <td>R$4,50</td>
+                    </tr>
+                  </table>
+            </div>
+    
+            <div id="box3">
+                Horários de Funcionamento:<br>
+                segunda à sexta: 10h-18h<br>
+                sábado: 10h-16h<br>
+                domingo: fechado<br>
+            </div>
+
+        </div>
+        
+    </body>
